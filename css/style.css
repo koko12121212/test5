@@ -943,9 +943,15 @@ footer  p{
         padding: 20px;
         font-size: 15px;
     }
+    
     main section .text h2{
         font-size: 50px;
     }
+    
+    main section .text a:first-of-type {
+        letter-spacing: 1px;
+    }
+    
     .about-me .loading,
     .about-me .text{
         width: 100%;
